@@ -1,0 +1,1 @@
+mongodb+srv://Deep1125:Deep1125@cluster0.zblnvmj.mongodb.net/ecommerce
